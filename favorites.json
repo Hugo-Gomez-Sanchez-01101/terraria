@@ -1,7 +1,9 @@
 {
   "World": {
-    "Objeto_de_Lápidas.wld": false,
+    "Objeto_de_Lápidas.wld": true,
     "El_Páramos_Grotesco.wld": false,
-    "Gota_Guía_de_Nigromancia.wld": false
+    "Gota_Guía_de_Nigromancia.wld": false,
+    "El_Tracto_Genial_de_Dedos.wld": false,
+    "El_Marisma_de_Albaricoques.wld": false
   }
 }

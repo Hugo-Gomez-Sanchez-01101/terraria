@@ -79,7 +79,7 @@
   "DisableIntenseVisualEffects": false,
   "MinimapFrame": "Default",
   "ShowBossBarHealthText": true,
-  "PlayerResourcesSet": "New",
+  "PlayerResourcesSet": "HorizontalBars",
   "RGBUpdatesPerSecond": 45.0,
   "UseRazerRGB": false,
   "RazerColorProfile": null,
