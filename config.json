@@ -3,7 +3,7 @@
   "SmartCursorToggle": true,
   "MapEnabled": true,
   "InvasionBarMode": 2,
-  "AutoSave": false,
+  "AutoSave": true,
   "AutoPause": false,
   "Language": "es-ES",
   "PlacementPreview": true,
