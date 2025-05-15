@@ -551,12 +551,11 @@
       "Jump": ["Space"],
       "Throw": ["T"],
       "Inventory": ["Tab"],
-      "Grapple": ["Mouse5"],
       "SmartSelect": ["LeftShift"],
       "SmartCursor": ["LeftControl"],
       "QuickMount": ["R"],
       "QuickHeal": ["Mouse4"],
-      "QuickMana": ["V"],
+      "QuickMana": ["Mouse5"],
       "QuickBuff": ["B"],
       "MapZoomIn": ["Add"],
       "MapZoomOut": ["Subtract"],
@@ -580,7 +579,9 @@
       "Loadout2": ["F2"],
       "Loadout3": ["F3"],
       "ToggleCameraMode": ["F4"],
-      "ToggleCreativeMenu": ["C"]
+      "ToggleCreativeMenu": ["C"],
+      "CalamityMod/BoosterDash": ["LeftShift"],
+      "CalamityMod/GodSlayerDash": ["LeftShift"]
     },
     "Gamepad": 
     {

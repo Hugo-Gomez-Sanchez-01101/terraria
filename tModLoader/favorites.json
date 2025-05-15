@@ -2,7 +2,11 @@
   "World": {
     "El_Sopa_Zafiro.wld": false,
     "El_Arrecife_de_Villanos.wld": false,
-    "El_Barro_Bien.wld": false
+    "El_Barro_Bien.wld": false,
+    "Poco_conocido_Secreción.wld": false,
+    "Tumba_(Ágil)_de_Hierbajos.wld": false,
+    "Patán_Ensenada.wld": false,
+    "Desconcertado_Peñasco.wld": false
   },
   "Player": {
     "El_sabio.plr": true
