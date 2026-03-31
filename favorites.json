@@ -1,13 +1,27 @@
 {
   "World": {
-    "Objeto_de_Lápidas.wld": true,
-    "El_Páramos_Grotesco.wld": false,
-    "Gota_Guía_de_Nigromancia.wld": false,
-    "El_Tracto_Genial_de_Dedos.wld": false,
-    "El_Marisma_de_Albaricoques.wld": false,
-    "Irresponsable_Estuario.wld": false
-  },
-  "Player": {
-    "andreas.plr": true
+    "terrarium.wld": false,
+    "2.wld": false,
+    "22.wld": false,
+    "23.wld": false,
+    "24.wld": false,
+    "25.wld": false,
+    "26.wld": false,
+    "27.wld": false,
+    "28.wld": false,
+    "29.wld": false,
+    "210.wld": false,
+    "211.wld": false,
+    "212.wld": false,
+    "213.wld": false,
+    "214.wld": false,
+    "215.wld": false,
+    "216.wld": false,
+    "217.wld": false,
+    "218.wld": false,
+    "219.wld": false,
+    "220.wld": false,
+    "221.wld": false,
+    "222.wld": false
   }
 }

@@ -1,2 +1,0 @@
-CalamityMod 2.0.4.6
-CalamityModMusic 2.0.4.3
